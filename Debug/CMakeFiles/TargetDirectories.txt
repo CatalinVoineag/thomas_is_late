@@ -1,0 +1,3 @@
+/Users/catalin/Code/play/c++/thomas_is_late/Debug/CMakeFiles/rebuild_cache.dir
+/Users/catalin/Code/play/c++/thomas_is_late/Debug/CMakeFiles/edit_cache.dir
+/Users/catalin/Code/play/c++/thomas_is_late/Debug/CMakeFiles/thomas_is_late.dir

@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/main.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/main.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/main.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/TextureHolder.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/TextureHolder.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/TextureHolder.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/Engine.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/Engine.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/Engine.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/Input.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/Input.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/Input.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/Update.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/Update.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/Update.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/Draw.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/Draw.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/Draw.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/Bob.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/Bob.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/Bob.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/Thomas.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/Thomas.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/Thomas.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/PlayableCharacter.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/PlayableCharacter.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/PlayableCharacter.cpp"
+}
+]
