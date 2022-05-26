@@ -195,6 +195,48 @@ CMakeFiles/thomas_is_late.dir/PlayableCharacter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/thomas_is_late.dir/PlayableCharacter.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/catalin/Code/play/c++/thomas_is_late/PlayableCharacter.cpp -o CMakeFiles/thomas_is_late.dir/PlayableCharacter.cpp.s
 
+CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o: CMakeFiles/thomas_is_late.dir/flags.make
+CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o: ../LevelManager.cpp
+CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o: CMakeFiles/thomas_is_late.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/catalin/Code/play/c++/thomas_is_late/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o -MF CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o.d -o CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/LevelManager.cpp
+
+CMakeFiles/thomas_is_late.dir/LevelManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/thomas_is_late.dir/LevelManager.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/catalin/Code/play/c++/thomas_is_late/LevelManager.cpp > CMakeFiles/thomas_is_late.dir/LevelManager.cpp.i
+
+CMakeFiles/thomas_is_late.dir/LevelManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/thomas_is_late.dir/LevelManager.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/catalin/Code/play/c++/thomas_is_late/LevelManager.cpp -o CMakeFiles/thomas_is_late.dir/LevelManager.cpp.s
+
+CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o: CMakeFiles/thomas_is_late.dir/flags.make
+CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o: ../LoadLevel.cpp
+CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o: CMakeFiles/thomas_is_late.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/catalin/Code/play/c++/thomas_is_late/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o -MF CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o.d -o CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/LoadLevel.cpp
+
+CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/catalin/Code/play/c++/thomas_is_late/LoadLevel.cpp > CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.i
+
+CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/catalin/Code/play/c++/thomas_is_late/LoadLevel.cpp -o CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.s
+
+CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o: CMakeFiles/thomas_is_late.dir/flags.make
+CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o: ../DetectCollisions.cpp
+CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o: CMakeFiles/thomas_is_late.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/catalin/Code/play/c++/thomas_is_late/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o -MF CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o.d -o CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/DetectCollisions.cpp
+
+CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/catalin/Code/play/c++/thomas_is_late/DetectCollisions.cpp > CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.i
+
+CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/catalin/Code/play/c++/thomas_is_late/DetectCollisions.cpp -o CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.s
+
 # Object files for target thomas_is_late
 thomas_is_late_OBJECTS = \
 "CMakeFiles/thomas_is_late.dir/main.cpp.o" \
@@ -205,7 +247,10 @@ thomas_is_late_OBJECTS = \
 "CMakeFiles/thomas_is_late.dir/Draw.cpp.o" \
 "CMakeFiles/thomas_is_late.dir/Bob.cpp.o" \
 "CMakeFiles/thomas_is_late.dir/Thomas.cpp.o" \
-"CMakeFiles/thomas_is_late.dir/PlayableCharacter.cpp.o"
+"CMakeFiles/thomas_is_late.dir/PlayableCharacter.cpp.o" \
+"CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o" \
+"CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o" \
+"CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o"
 
 # External object files for target thomas_is_late
 thomas_is_late_EXTERNAL_OBJECTS =
@@ -219,13 +264,16 @@ thomas_is_late: CMakeFiles/thomas_is_late.dir/Draw.cpp.o
 thomas_is_late: CMakeFiles/thomas_is_late.dir/Bob.cpp.o
 thomas_is_late: CMakeFiles/thomas_is_late.dir/Thomas.cpp.o
 thomas_is_late: CMakeFiles/thomas_is_late.dir/PlayableCharacter.cpp.o
+thomas_is_late: CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o
+thomas_is_late: CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o
+thomas_is_late: CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o
 thomas_is_late: CMakeFiles/thomas_is_late.dir/build.make
 thomas_is_late: /Library/Frameworks/./sfml-graphics.framework/Versions/2.5.1/sfml-graphics
 thomas_is_late: /Library/Frameworks/./sfml-window.framework/Versions/2.5.1/sfml-window
 thomas_is_late: /Library/Frameworks/./sfml-audio.framework/Versions/2.5.1/sfml-audio
 thomas_is_late: /Library/Frameworks/./sfml-system.framework/Versions/2.5.1/sfml-system
 thomas_is_late: CMakeFiles/thomas_is_late.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/catalin/Code/play/c++/thomas_is_late/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable thomas_is_late"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/catalin/Code/play/c++/thomas_is_late/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable thomas_is_late"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/thomas_is_late.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

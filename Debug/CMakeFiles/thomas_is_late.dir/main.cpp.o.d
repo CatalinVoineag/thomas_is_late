@@ -312,4 +312,5 @@ CMakeFiles/thomas_is_late.dir/main.cpp.o: \
   /Users/catalin/Code/play/c++/thomas_is_late/TextureHolder.h \
   /Users/catalin/Code/play/c++/thomas_is_late/Thomas.h \
   /Users/catalin/Code/play/c++/thomas_is_late/PlayableCharacter.h \
-  /Users/catalin/Code/play/c++/thomas_is_late/Bob.h
+  /Users/catalin/Code/play/c++/thomas_is_late/Bob.h \
+  /Users/catalin/Code/play/c++/thomas_is_late/LevelManager.h

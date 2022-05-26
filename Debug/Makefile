@@ -153,6 +153,30 @@ Bob.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/Bob.cpp.s
 .PHONY : Bob.cpp.s
 
+DetectCollisions.o: DetectCollisions.cpp.o
+.PHONY : DetectCollisions.o
+
+# target to build an object file
+DetectCollisions.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o
+.PHONY : DetectCollisions.cpp.o
+
+DetectCollisions.i: DetectCollisions.cpp.i
+.PHONY : DetectCollisions.i
+
+# target to preprocess a source file
+DetectCollisions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.i
+.PHONY : DetectCollisions.cpp.i
+
+DetectCollisions.s: DetectCollisions.cpp.s
+.PHONY : DetectCollisions.s
+
+# target to generate assembly for a file
+DetectCollisions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.s
+.PHONY : DetectCollisions.cpp.s
+
 Draw.o: Draw.cpp.o
 .PHONY : Draw.o
 
@@ -224,6 +248,54 @@ Input.s: Input.cpp.s
 Input.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/Input.cpp.s
 .PHONY : Input.cpp.s
+
+LevelManager.o: LevelManager.cpp.o
+.PHONY : LevelManager.o
+
+# target to build an object file
+LevelManager.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o
+.PHONY : LevelManager.cpp.o
+
+LevelManager.i: LevelManager.cpp.i
+.PHONY : LevelManager.i
+
+# target to preprocess a source file
+LevelManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/LevelManager.cpp.i
+.PHONY : LevelManager.cpp.i
+
+LevelManager.s: LevelManager.cpp.s
+.PHONY : LevelManager.s
+
+# target to generate assembly for a file
+LevelManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/LevelManager.cpp.s
+.PHONY : LevelManager.cpp.s
+
+LoadLevel.o: LoadLevel.cpp.o
+.PHONY : LoadLevel.o
+
+# target to build an object file
+LoadLevel.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o
+.PHONY : LoadLevel.cpp.o
+
+LoadLevel.i: LoadLevel.cpp.i
+.PHONY : LoadLevel.i
+
+# target to preprocess a source file
+LoadLevel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.i
+.PHONY : LoadLevel.cpp.i
+
+LoadLevel.s: LoadLevel.cpp.s
+.PHONY : LoadLevel.s
+
+# target to generate assembly for a file
+LoadLevel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/thomas_is_late.dir/build.make CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.s
+.PHONY : LoadLevel.cpp.s
 
 PlayableCharacter.o: PlayableCharacter.cpp.o
 .PHONY : PlayableCharacter.o
@@ -357,6 +429,9 @@ help:
 	@echo "... Bob.o"
 	@echo "... Bob.i"
 	@echo "... Bob.s"
+	@echo "... DetectCollisions.o"
+	@echo "... DetectCollisions.i"
+	@echo "... DetectCollisions.s"
 	@echo "... Draw.o"
 	@echo "... Draw.i"
 	@echo "... Draw.s"
@@ -366,6 +441,12 @@ help:
 	@echo "... Input.o"
 	@echo "... Input.i"
 	@echo "... Input.s"
+	@echo "... LevelManager.o"
+	@echo "... LevelManager.i"
+	@echo "... LevelManager.s"
+	@echo "... LoadLevel.o"
+	@echo "... LoadLevel.i"
+	@echo "... LoadLevel.s"
 	@echo "... PlayableCharacter.o"
 	@echo "... PlayableCharacter.i"
 	@echo "... PlayableCharacter.s"

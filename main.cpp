@@ -1,12 +1,13 @@
 #include "Engine.h"
 
-int main() {
-  // Declare an instance of Engine
-  Engine engine;
+int main()
+{
+	// Declare an instance of Engine
+	Engine engine;
 
-  // Start the engine
-  engine.run();
+	// Start the engine
+	engine.run();
 
-  // Quit the usual way when the engine is stopped
-  return 0;
+	// Quit in the usual way when the engine is stopped
+	return 0;
 }

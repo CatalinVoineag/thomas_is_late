@@ -313,5 +313,6 @@ CMakeFiles/thomas_is_late.dir/Update.cpp.o: \
   /Users/catalin/Code/play/c++/thomas_is_late/Thomas.h \
   /Users/catalin/Code/play/c++/thomas_is_late/PlayableCharacter.h \
   /Users/catalin/Code/play/c++/thomas_is_late/Bob.h \
+  /Users/catalin/Code/play/c++/thomas_is_late/LevelManager.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/sstream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/istream

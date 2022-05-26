@@ -43,5 +43,20 @@
   "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
   "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/PlayableCharacter.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/PlayableCharacter.cpp",
   "file": "/Users/catalin/Code/play/c++/thomas_is_late/PlayableCharacter.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/LevelManager.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/LevelManager.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/LevelManager.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/LoadLevel.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/LoadLevel.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/LoadLevel.cpp"
+},
+{
+  "directory": "/Users/catalin/Code/play/c++/thomas_is_late/Debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/catalin/Code/play/c++/thomas_is_late/SFML_INCLUDE_DIR -iframework /Library/Frameworks -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -std=gnu++17 -o CMakeFiles/thomas_is_late.dir/DetectCollisions.cpp.o -c /Users/catalin/Code/play/c++/thomas_is_late/DetectCollisions.cpp",
+  "file": "/Users/catalin/Code/play/c++/thomas_is_late/DetectCollisions.cpp"
 }
 ]

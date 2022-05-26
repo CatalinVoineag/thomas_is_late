@@ -18,6 +18,9 @@ add_executable(
   Bob.cpp
   Thomas.cpp
   PlayableCharacter.cpp
+  LevelManager.cpp
+  LoadLevel.cpp
+  DetectCollisions.cpp
 )
 
 link_directories(SFML_LIBRARY_DIR)
